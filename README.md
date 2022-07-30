@@ -29,3 +29,34 @@
       * CPU概述
       * 内存概述
    2. 网络组成
+
+> 一级引用 内容
+>> 二级引用
+>>> 三级引用
+
+[github主页](https://github.com/bugkiller02 "点击跳转到github主页")
+
+![自定义图片](https://avatars.githubusercontent.com/u/94062637?v=4)
+
+```c
+	#include<stdio.h>
+	int main(void){
+
+	
+		printf("This is a demo in REDAME.md\n");
+	
+		return 0;
+	}
+```
+```bash
+	
+	sudo apt-get install tree
+
+```
+
+以下为表格测试
+
+游戏名|游戏价格|游戏排行
+--|:--|--:
+反恐精英：全球攻势|98|1
+赛博朋克2077|198|2
